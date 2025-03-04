@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SantiAldir
+- 👋 Hi, I’m Gil'ad
 - 👀 I’m interested in entering the world of professional programing
-- 🌱 I’m currently learning Python and Sql independently
+- 🌱 I’m currently learning REACT and NODE.JS via UDEMY
 - 💞️ I’m looking to collaborate on programming objects
 - 📫 How to reach me: email - giladg3@gmail.com, LinkedIn: linkedin.com/in/gil-ad-greenberg-650462237
 
